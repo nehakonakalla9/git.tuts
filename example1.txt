@@ -1,0 +1,3 @@
+This is another example folder to showcase how staging area is important when you are trying to commit files
+to your local repositiry 
+it helps you add the files that you want to add to your permanent history of Git
